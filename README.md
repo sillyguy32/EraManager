@@ -27,17 +27,6 @@ To use Project Era Manager, follow these steps:
    - ![image2](https://github.com/sillyguy32/EraManager/assets/154769619/ddaaf7b6-3f86-4e1b-b3fe-58c14e4af233)
    - ![image3](https://github.com/sillyguy32/EraManager/assets/154769619/e1687729-d24a-421b-adbf-94551b152150)
 
-## Usage
 
-1. **Login/Register:**
-   Create an account or log in to your existing account.
-2. **Dashboard:**
-   The dashboard provides an overview of current bugs and their status.
-3. **Bug Details:**
-   Click on a bug to view details, including suggested fixes.
-4. **Automated Fixes:**
-   Use the automated fix feature to apply common solutions.
-5. **Git Integration:**
-   Easily integrate with Git for version control and collaborative development.
 
 
