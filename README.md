@@ -1,7 +1,6 @@
 # Project Era Manager
 
-![bra](https://github.com/sillyguy32/EraManager/assets/154769619/7091f47f-28b8-4538-89fb-5530acf8c89e) [Jump to Download](#download)
-                                                                                                       [Jump to Getting Started](#Getting_Started)
+![bra](https://github.com/sillyguy32/EraManager/assets/154769619/7091f47f-28b8-4538-89fb-5530acf8c89e)
 
 
 ## Overview
