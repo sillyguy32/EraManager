@@ -5,7 +5,7 @@
 ## Overview
 ![Gui](https://github.com/sillyguy32/EraManager/assets/154769619/efe00780-e711-4264-b5e8-663d22328da0)
 
-Project Era Manager is a powerful tool designed to streamline the bug-fixing process for beginners working on Project Era. This manager provides a user-friendly interface and essential functionalities to address common issues encountered by beginners during development.
+- Project Era Manager is a powerful tool designed to streamline the bug-fixing process for beginners working on Project Era. This manager provides a user-friendly interface and essential functionalities to address common issues encountered by beginners during development.
 
 ## Features
 
