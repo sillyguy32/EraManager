@@ -1,6 +1,7 @@
 # Project Era Manager
 
-![bra](https://github.com/sillyguy32/EraManager/assets/154769619/7091f47f-28b8-4538-89fb-5530acf8c89e) ![Gui](https://github.com/sillyguy32/EraManager/assets/154769619/efe00780-e711-4264-b5e8-663d22328da0)
+![bra](https://github.com/sillyguy32/EraManager/assets/154769619/7091f47f-28b8-4538-89fb-5530acf8c89e)
+![Gui](https://github.com/sillyguy32/EraManager/assets/154769619/efe00780-e711-4264-b5e8-663d22328da0)
 
 ## Overview
 
