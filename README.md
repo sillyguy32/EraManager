@@ -1,6 +1,6 @@
 # Project Era Manager
 
-![bra](https://github.com/sillyguy32/EraManager/assets/154769619/7091f47f-28b8-4538-89fb-5530acf8c89e)
+![Gui](https://github.com/sillyguy32/EraManager/assets/154769619/dbe34998-a5ad-4787-9f9b-49e09d3a8040)
 
 ## Overview
 
@@ -26,6 +26,7 @@ To use Project Era Manager, follow these steps:
    - ![image](https://github.com/sillyguy32/EraManager/assets/154769619/a301fdb1-e2fe-4b13-8cd0-0dd7a593cc3a)
    - ![image2](https://github.com/sillyguy32/EraManager/assets/154769619/ddaaf7b6-3f86-4e1b-b3fe-58c14e4af233)
    - ![image3](https://github.com/sillyguy32/EraManager/assets/154769619/e1687729-d24a-421b-adbf-94551b152150)
+
 
 
 
