@@ -40,23 +40,4 @@ To use Project Era Manager, follow these steps:
 5. **Git Integration:**
    Easily integrate with Git for version control and collaborative development.
 
-## Contributing
 
-We welcome contributions from the community! To contribute to Project Era Manager:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them.
-4. Open a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
-
-## Contact
-
-For any inquiries or support, please contact [your-email@example.com].
-
----
-
-**Note: Customize the placeholders (e.g., `your-username`, `your-email@example.com`) with your actual information.**
