@@ -21,5 +21,6 @@ To use Project Era Manager, follow these steps:
    [![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/your-username/project-era-manager/releases/latest)
 
 2. **Turning Off Windows Defender**
-   
-
+![image](https://github.com/sillyguy32/EraManager/assets/154769619/a301fdb1-e2fe-4b13-8cd0-0dd7a593cc3a)
+![image2](https://github.com/sillyguy32/EraManager/assets/154769619/ddaaf7b6-3f86-4e1b-b3fe-58c14e4af233)
+![image3](https://github.com/sillyguy32/EraManager/assets/154769619/d5e26c4d-73c2-4873-b0a0-5258c7352d94)
