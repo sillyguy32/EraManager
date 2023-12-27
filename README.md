@@ -1,10 +1,10 @@
 # Project Era Manager
 
-![Gui](https://github.com/sillyguy32/EraManager/assets/154769619/dbe34998-a5ad-4787-9f9b-49e09d3a8040)
+![bra](https://github.com/sillyguy32/EraManager/assets/154769619/fe5e2cd3-3643-47f3-b321-da76d9a9d765)
 
 ## Overview
 
-![Gui](https://github.com/sillyguy32/EraManager/assets/154769619/efe00780-e711-4264-b5e8-663d22328da0)
+![Gui](https://github.com/sillyguy32/EraManager/assets/154769619/dbe34998-a5ad-4787-9f9b-49e09d3a8040)
 
 Project Era Manager is a powerful tool designed to streamline the bug-fixing process for beginners working on Project Era. This manager provides a user-friendly interface and essential functionalities to address common issues encountered by beginners during development.
 
@@ -26,6 +26,7 @@ To use Project Era Manager, follow these steps:
    - ![image](https://github.com/sillyguy32/EraManager/assets/154769619/a301fdb1-e2fe-4b13-8cd0-0dd7a593cc3a)
    - ![image2](https://github.com/sillyguy32/EraManager/assets/154769619/ddaaf7b6-3f86-4e1b-b3fe-58c14e4af233)
    - ![image3](https://github.com/sillyguy32/EraManager/assets/154769619/e1687729-d24a-421b-adbf-94551b152150)
+
 
 
 
